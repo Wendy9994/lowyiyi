@@ -35,7 +35,7 @@
             overflow: hidden;
             max-width: 1300px;
             width: 100%;
-            margin-top: 50px;
+            margin-top: 30px;
         }
 
         .image-section {
