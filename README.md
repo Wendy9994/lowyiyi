@@ -18,7 +18,7 @@
         header {
             width: 100%;
             background-color: #fafafa;
-            font-size: 10px;
+            font-size: 14px;
             text-align: center;
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
             position: fixed;
