@@ -96,7 +96,7 @@
 <body>
     <div class="container">
         <div class="image-section">
-            <img src="file:///C:/Users/User/Pictures/IMG_6356.jpg" alt="Low Yi Yi">
+            <img src="[file:///C:/Users/User/Pictures/IMG_6356.jpg](https://static.wixstatic.com/media/b8aa9b_fe3d5a2ecc114416b7ddff3bd49e1611~mv2.jpg/v1/crop/x_28,y_0,w_1507,h_1633/fill/w_579,h_634,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/IMG_6356_edited_edited.jpg)" alt="Low Yi Yi">
             <div class="social-icons">
                 <a href="https://www.instagram.com/wendyyiii._/">
                     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram">
